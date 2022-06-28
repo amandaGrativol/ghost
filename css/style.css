@@ -1,14 +1,15 @@
 *{
     margin: 0;
     padding: 0;
-    background-color: gray;
+    background-color: palegreen;
 }
 .ghost{
     position: absolute;
     top: 50%;
-    right: 40%;
+    right: 38%;
     transform: translate(10%, -50%);
     width: 400px;
+    border-radius: 30%;
 }
 ul{
     position: absolute;
